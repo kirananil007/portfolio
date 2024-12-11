@@ -1,5 +1,3 @@
-# portfolio
-
 # DevOps Engineer
 
 ### Work Experience
