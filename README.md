@@ -1,7 +1,14 @@
 # DevOps Engineer
 
-### Work Experience
-Senior DevOps Engineer at Cengage Group
+## About Me
+Hi, I'm a Senior DevOps Engineer with expertise in cloud computing, infrastructure automation, and CI/CD pipelines. With a proven track record of optimizing systems and reducing cloud costs by up to 30%, I thrive at the intersection of development and operations. My passion lies in solving complex problems creatively while building scalable, reliable, and cost-efficient solutions.
+
+I have hands-on experience with tools like Kubernetes, Docker, AWS, Helm, and Terraform, and I'm skilled in scripting with Python, Bash, and YAML. From automating workflows to enabling seamless deployments on platforms like EKS, my focus is on driving efficiency and improving system performance.
+
+When I'm not architecting solutions, I explore innovative technologies to help organizations achieve their DevOps goals faster. I'm also passionate about knowledge-sharing, and my projects here reflect my journey in mastering and refining DevOps best practices.
+
+## Work Experience
+**Senior DevOps Engineer at Cengage Group (_October 2019 - Present_)**
 - Design highly available, multi-AZ Kubernetes cluster deployments on AWS using Terraform, ensuring scalability and reliability.
 - Open source contributor for Kubernetes initiatives such as Goldilocks.
 - Led migration of legacy applications to AWS EKS, guiding teams in Dockerizing dozens of Java applications and deploying them via Helm and CI/CD pipelines.
@@ -16,7 +23,7 @@ Senior DevOps Engineer at Cengage Group
 - Supported generative AI by deploying AWS Bedrock services and setting up vector databases like Qdrant for Kubernetes-based applications.
 - Performed database administration for MySQL, PostgreSQL, and Aurora, ensuring data integrity and performance across environments.
 
-Senior Software Engineer at smartShift Technologies
+**Senior Software Engineer at smartShift Technologies (_May 2016 - September 2019_)**
 - Led teams in adopting microservices architecture on the Cloud Foundry, enabling modernization of legacy applications
 by adopting industry best practices.
 - Automated PCF setup using Terraform and Concourse CI, ensuring faster deployments and simplified infrastructure
