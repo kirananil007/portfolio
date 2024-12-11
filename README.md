@@ -3,17 +3,17 @@
 ## About Me
 Hi 👋, I'm a Senior DevOps Engineer with expertise in: 
 
-🚀 Streamlining Cloud Solutions: Skilled in managing AWS resources such as SQS, S3, and EKS for highly scalable, automated solutions.
+🚀 **Streamlining Cloud Solutions**: Skilled in managing AWS resources such as SQS, S3, and EKS for highly scalable, automated solutions.
 
-⚙️ CI/CD Expertise: Built and refined pipelines deploying to Kubernetes (EKS) for seamless application delivery.
+⚙️ **CI/CD Expertise**: Built and refined pipelines deploying to Kubernetes (EKS) for seamless application delivery.
 
-📦 Infrastructure as Code: Proficient in tools like Helm, ACK, and Terraform for automating infrastructure deployment and policies.
+📦 **Infrastructure as Code**: Proficient in tools like Helm, ACK, and Terraform for automating infrastructure deployment and policies.
 
-🌍 Global Collaboration: Supported multi-regional applications ensuring secure communication with AWS services.
+🌍 **Global Collaboration**: Supported multi-regional applications ensuring secure communication with AWS services.
 
-📈 Optimization Champion: Simplified lifecycle management for cloud storage and streamlined workflows for efficiency.
+📈 **Optimization Expert**: Simplified lifecycle management for cloud storage and streamlined workflows for efficiency.
 
-💼 Professional Aspirations: Exploring impactful opportunities, such as contributing to cancer research societies through DevOps innovation.
+💼 **Professional Aspirations**: Exploring impactful opportunities, such as contributing to cancer research societies through DevOps innovation.
 
 When I'm not architecting solutions, I explore innovative technologies to help organizations achieve their DevOps goals faster. I'm also passionate about knowledge-sharing, and my projects here reflect my journey in mastering and refining DevOps best practices.
 
