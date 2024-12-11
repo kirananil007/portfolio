@@ -51,7 +51,7 @@ M.Tech. in Computer Science and Engineering with specialization in Cloud Computi
 Relevant Coursework: Object Oriented Programming, Databases, Discrete Maths, Operating Systems, Computer Networks, Cloud Computing Architecture, Virtualization, Data Clouds and storage, Advance Data Structures and Algorithms
 
 ## Awards and Certificates
-- **AWS DevOps Engineer Professional - (_L7EHBX6LCBVEQK34_)**
-- **Certified Kubernetes Security Specialist - (_LF-jb0qyh2ccs_)**
-- **Certified Kubernetes Application Developer - (_LF-wsscyuv4yj_)**
-- **Certified Kubernetes Administrator - (_LF-1kfqvwvten_)**
+- AWS DevOps Engineer Professional - (_L7EHBX6LCBVEQK34_)
+- Certified Kubernetes Security Specialist - (_LF-jb0qyh2ccs_)
+- Certified Kubernetes Application Developer - (_LF-wsscyuv4yj_)
+- Certified Kubernetes Administrator - (_LF-1kfqvwvten_)
